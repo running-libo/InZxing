@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/e70ce530b90f052f4f798423fd6ef20b593fef8f/output/jars/libs/core_3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6afec4bf592cfc30a0f9615f9739583c6e2bf04e">
+        <dex dex="/Users/apple/Desktop/InZxing/app/build/intermediates/pre-dexed/debug/core_3.0.1_480507a942cf311f2226cca075ebceca24dcbc42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.android/build-cache/e70ce530b90f052f4f798423fd6ef20b593fef8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a68c5e705895df63da079a9e5c842fd636b09e70">
+        <dex dex="/Users/apple/Desktop/InZxing/app/build/intermediates/pre-dexed/debug/classes_4b3c915b878dfff582ee7baa735acbd45a7e88bb.jar" />
+    </item>
+
+</items>

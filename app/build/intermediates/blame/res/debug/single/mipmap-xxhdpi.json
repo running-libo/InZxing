@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/InZxing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/goobird-iOS004/Desktop/InZxing/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/InZxing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/close_white.png",
+        "source": "/Users/goobird-iOS004/Desktop/InZxing/app/src/main/res/mipmap-xxhdpi/close_white.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/InZxing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/goobird-iOS004/Desktop/InZxing/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/InZxing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/close_white.png",
+        "source": "/Users/apple/Desktop/InZxing/app/src/main/res/mipmap-xxhdpi/close_white.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/InZxing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/apple/Desktop/InZxing/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/InZxing/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/apple/Desktop/InZxing/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
