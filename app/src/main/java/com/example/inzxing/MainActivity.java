@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         btnScan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, MyCaptureActivity.class);
+                Intent intent = new Intent(MainActivity.this, CaptureActivity.class);
                 startActivityForResult(intent,REQUEST_CODE);
             }
         });
